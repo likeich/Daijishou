@@ -507,6 +507,11 @@
       "filename": "xbone.png"
     },
     {
+      "matchPlatformShortname": "xbox",
+      "matchPlatformUniqueId": "xbox",
+      "filename": "xbox.png"
+    },
+    {
       "matchPlatformShortname": "wiiu",
       "matchPlatformUniqueId": "wiiu",
       "filename": "wiiu.png"
