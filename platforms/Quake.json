@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 2,
+  "revisionNumber": 3,
   "platform": {
     "name": "Quake Game Engine",
     "uniqueId": "quake",
@@ -25,7 +25,7 @@
       "uniqueId": "quake.ra64.tyrquake",
       "description": "Supported extensions: pak",
       "acceptedFilenameRegex": "^(.*)\\.(?:pak)$",
-      "amStartArguments": "-n com.retroarch.aarch64/com.retroarch.browser.retroactivity.RetroActivityFuture\n  -e ROM {file.path}\n  -e LIBRETRO /data/data/com.retroarch.aarch64/cores/tyrquake_libretro_android.so\n  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch.aarch64/files/retroarch.cfg\n --activity-clear-task\n  --activity-clear-top",
+      "amStartArguments": "-n com.retroarch.aarch64/com.retroarch.browser.retroactivity.RetroActivityFuture\n -e ROM {file.path}\n -e LIBRETRO tyrquake\n -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch.aarch64/files/retroarch.cfg",
       "killPackageProcesses": true,
       "killPackageProcessesWarning": true,
       "extra": ""
@@ -35,7 +35,7 @@
       "uniqueId": "quake.ra32.tyrquake",
       "description": "Supported extensions: pak",
       "acceptedFilenameRegex": "^(.*)\\.(?:pak)$",
-      "amStartArguments": "-n com.retroarch.ra32/com.retroarch.browser.retroactivity.RetroActivityFuture\n  -e ROM {file.path}\n  -e LIBRETRO /data/data/com.retroarch.ra32/cores/tyrquake_libretro_android.so\n  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch.ra32/files/retroarch.cfg\n --activity-clear-task\n  --activity-clear-top",
+      "amStartArguments": "-n com.retroarch.ra32/com.retroarch.browser.retroactivity.RetroActivityFuture\n -e ROM {file.path}\n -e LIBRETRO tyrquake\n -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch.ra32/files/retroarch.cfg",
       "killPackageProcesses": true,
       "killPackageProcessesWarning": true,
       "extra": ""
@@ -45,7 +45,7 @@
       "uniqueId": "quake.ra.tyrquake",
       "description": "Supported extensions: pak",
       "acceptedFilenameRegex": "^(.*)\\.(?:pak)$",
-      "amStartArguments": "-n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture\n  -e ROM {file.path}\n  -e LIBRETRO /data/data/com.retroarch/cores/tyrquake_libretro_android.so\n  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg\n --activity-clear-task\n  --activity-clear-top",
+      "amStartArguments": "-n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture\n -e ROM {file.path}\n -e LIBRETRO tyrquake\n -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg",
       "killPackageProcesses": true,
       "killPackageProcessesWarning": true,
       "extra": ""
