@@ -1,26 +1,26 @@
 {
-    "databaseVersion": 14,
-    "revisionNumber": 3,
-    "platform": {
-      "name": "Apple II",
-      "uniqueId": "appleii",
-      "shortname": "appleii",
-      "description": null,
-      "acceptedFilenameRegex": "^(?!(?:\\._|\\.).*).*$",
-      "scraperSourceList": [],
-      "boxArtAspectRatioId": 0,
-      "useCustomBoxArtAspectRatio": false,
-      "customBoxArtAspectRatio": null,
-      "screenAspectRatioId": 0,
-      "useCustomScreenAspectRatio": false,
-      "customScreenAspectRatio": null,
-      "retroAchievementsAlias": "Apple II",
-      "retroAchievementsConsoleIdList": [
-        38
-      ],
-      "extra": ""
-    },
-    "playerList": [
+  "databaseVersion": 14,
+  "revisionNumber": 3,
+  "platform": {
+    "name": "Apple II",
+    "uniqueId": "appleii",
+    "shortname": "appleii",
+    "description": null,
+    "acceptedFilenameRegex": "^(?!(?:\\._|\\.).*).*$",
+    "scraperSourceList": [],
+    "boxArtAspectRatioId": 0,
+    "useCustomBoxArtAspectRatio": false,
+    "customBoxArtAspectRatio": null,
+    "screenAspectRatioId": 0,
+    "useCustomScreenAspectRatio": false,
+    "customScreenAspectRatio": null,
+    "retroAchievementsAlias": "Apple II",
+    "retroAchievementsConsoleIdList": [
+      38
+    ],
+    "extra": ""
+  },
+  "playerList": [
     {
       "name": "appleii - RetroArch 64 - mess",
       "uniqueId": "appleii.ra64.mess",

@@ -1,25 +1,25 @@
 {
-    "databaseVersion": 14,
-    "revisionNumber": 4,
-    "platform": {
-      "name": "Interton VC 4000",
-      "uniqueId": "vc4000",
-      "shortname": "vc4000",
-      "description": null,
-      "acceptedFilenameRegex": "^(?!(?:\\._|\\.).*).*$",
-      "scraperSourceList": [],
-      "boxArtAspectRatioId": 0,
-      "useCustomBoxArtAspectRatio": false,
-      "customBoxArtAspectRatio": null,
-      "screenAspectRatioId": 0,
-      "useCustomScreenAspectRatio": false,
-      "customScreenAspectRatio": null,
-      "retroAchievementsConsoleIdList": [
-        74
-      ],
-      "extra": ""
-    },
-    "playerList": [
+  "databaseVersion": 14,
+  "revisionNumber": 4,
+  "platform": {
+    "name": "Interton VC 4000",
+    "uniqueId": "vc4000",
+    "shortname": "vc4000",
+    "description": null,
+    "acceptedFilenameRegex": "^(?!(?:\\._|\\.).*).*$",
+    "scraperSourceList": [],
+    "boxArtAspectRatioId": 0,
+    "useCustomBoxArtAspectRatio": false,
+    "customBoxArtAspectRatio": null,
+    "screenAspectRatioId": 0,
+    "useCustomScreenAspectRatio": false,
+    "customScreenAspectRatio": null,
+    "retroAchievementsConsoleIdList": [
+      74
+    ],
+    "extra": ""
+  },
+  "playerList": [
     {
       "name": "vc4000 - DroidArcadia",
       "uniqueId": "vc4000.com.amigan.droidarcadia",
