@@ -734,7 +734,7 @@
       "platformName": "Video Player",
       "platformShortname": "videos",
       "platformUniqueId": "videos",
-      "revisionNumber": 6
+      "revisionNumber": 7
     },
     {
       "filename": "VirtualBoy.json",
