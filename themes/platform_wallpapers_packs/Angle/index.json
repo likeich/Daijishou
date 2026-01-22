@@ -526,6 +526,21 @@
       "matchPlatformUniqueId": "windows",
       "filename": "windows.png"
     },
+        {
+      "matchPlatformShortname": "allgames",
+      "matchPlatformUniqueId": "allgames",
+      "filename": "allgames.png"
+    },
+        {
+      "matchPlatformShortname": "favorites",
+      "matchPlatformUniqueId": "favorites",
+      "filename": "favorites.png"
+    },
+        {
+      "matchPlatformShortname": "recent",
+      "matchPlatformUniqueId": "recent",
+      "filename": "recent.png"
+    },
     {
       "matchPlatformShortname": "tgcd",
       "matchPlatformUniqueId": "tgcd",
