@@ -282,6 +282,13 @@
       "revisionNumber": 15
     },
     {
+      "filename": "IdTech4A.json",
+      "platformName": "idTech4A++",
+      "platformShortname": "idtech",
+      "platformUniqueId": "idtech",
+      "revisionNumber": 1
+    },
+    {
       "filename": "Intellivision.json",
       "platformName": "Intellivision",
       "platformShortname": "intellivision",
