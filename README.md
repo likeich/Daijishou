@@ -124,7 +124,7 @@ Daijishō evolved a lot in 2022. Including UI improvements, retro achievements, 
 ### Special thanks
 [@MonkoftheFunk](https://www.github.com/MonkoftheFunk) Who helped with the Daijishō wallpaper gallery.
 
-@iShade Who created a lots of conceptual art for Daijishō. And helped a lot with the early stage of Daijishō.
+[@iShade](https://www.youtube.com/@usagishade) Who created a lots of conceptual art for Daijishō. And helped a lot with the early stage of Daijishō.
 
 # Notice
 `© 2026 [ TapiocaFox | ||` • [Privacy Policy](https://github.com/TapiocaFox/Daijishou/blob/main/privacy-policy.md)
