@@ -597,6 +597,13 @@
       "revisionNumber": 13
     },
     {
+      "filename": "SegaModel3.json",
+      "platformName": "Sega Model 3",
+      "platformShortname": "model3",
+      "platformUniqueId": "model3",
+      "revisionNumber": 1
+    },
+    {
       "filename": "SegaNAOMI.json",
       "platformName": "Sega Naomi",
       "platformShortname": "naomi",
