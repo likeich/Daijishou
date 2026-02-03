@@ -342,7 +342,7 @@
       "platformName": "Microsoft - XBox 360",
       "platformShortname": "xbox360",
       "platformUniqueId": "xbox360",
-      "revisionNumber": 2
+      "revisionNumber": 3
     },
     {
       "filename": "Moonlight.json",
@@ -748,7 +748,7 @@
       "platformName": "Video Player",
       "platformShortname": "videos",
       "platformUniqueId": "videos",
-      "revisionNumber": 7
+      "revisionNumber": 8
     },
     {
       "filename": "VirtualBoy.json",
