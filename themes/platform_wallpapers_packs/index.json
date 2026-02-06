@@ -584,6 +584,26 @@
     },
     {
       "platformWallpapersPackAuthors": [
+        "Jamesinorbit"
+      ],
+      "platformWallpapersPackDescription": "Retrofix. A handheld EmulationStation theme originally by 20GotoTen. Over 100 Systems. Ported by Jamesinorbit. 16:9 Widescreen. Indexing by Postmortem.",
+      "platformWallpapersPackIsNSFW": false,
+      "platformWallpapersPackName": "Retrofix-16_9",
+      "platformWallpapersPackPreviewThumbnailPath": "Retrofix-16_9/thumbnail.jpg",
+      "platformWallpapersPackRootPath": "Retrofix-16_9"
+    },
+    {
+      "platformWallpapersPackAuthors": [
+        "Jamesinorbit"
+      ],
+      "platformWallpapersPackDescription": "Retrofix. A handheld EmulationStation theme originally by 20GotoTen. Over 100 Systems. Ported by Jamesinorbit. 4:3 Retro. Indexing by Postmortem.",
+      "platformWallpapersPackIsNSFW": false,
+      "platformWallpapersPackName": "Retrofix-4_3",
+      "platformWallpapersPackPreviewThumbnailPath": "Retrofix-4_3/thumbnail.jpg",
+      "platformWallpapersPackRootPath": "Retrofix-4_3"
+    },
+    {
+      "platformWallpapersPackAuthors": [
         "Tecnos12"
       ],
       "platformWallpapersPackDescription": "A wallpaper pack based on colours and collages of in-game screenshots.",
