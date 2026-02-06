@@ -197,6 +197,11 @@
       "filename": "megaduck.jpg"
     },
     {
+      "matchPlatformShortname": "model3",
+      "matchPlatformUniqueId": "model3",
+      "filename": "model3.jpg"
+    },
+    {
       "matchPlatformShortname": "neogeo",
       "matchPlatformUniqueId": "neogeo",
       "filename": "neogeo.jpg"
