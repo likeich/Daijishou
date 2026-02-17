@@ -709,6 +709,13 @@
       "revisionNumber": 3
     },
     {
+      "filename": "Triforce.json",
+      "platformName": "Triforce",
+      "platformShortname": "triforce",
+      "platformUniqueId": "triforce",
+      "revisionNumber": 1
+    },
+    {
       "filename": "TurboGrafx16.json",
       "platformName": "TurboGrafx-16",
       "platformShortname": "tg16",

@@ -541,6 +541,11 @@
       "matchPlatformShortname": "idtech",
       "matchPlatformUniqueId": "idtech",
       "filename": "idtech.png"
+    },
+    {
+      "matchPlatformShortname": "triforce",
+      "matchPlatformUniqueId": "triforce",
+      "filename": "triforce.png"
     }
   ]
 }
