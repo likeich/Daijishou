@@ -258,7 +258,7 @@
       "platformName": "Game Boy",
       "platformShortname": "gb",
       "platformUniqueId": "gb",
-      "revisionNumber": 17
+      "revisionNumber": 18
     },
     {
       "filename": "GameBoyAdvance.json",
@@ -272,7 +272,7 @@
       "platformName": "Game Boy Color",
       "platformShortname": "gbc",
       "platformUniqueId": "gbc",
-      "revisionNumber": 17
+      "revisionNumber": 18
     },
     {
       "filename": "GameCube.json",
