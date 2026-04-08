@@ -172,6 +172,11 @@
       "filename": "jaguar.jpg"
     },
     {
+      "matchPlatformShortname": "jaguarcd",
+      "matchPlatformUniqueId": "jaguarcd",
+      "filename": "jaguarcd.jpg"
+    },
+    {
       "matchPlatformShortname": "lynx",
       "matchPlatformUniqueId": "lynx",
       "filename": "lynx.jpg"
