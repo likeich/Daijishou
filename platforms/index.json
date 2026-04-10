@@ -251,7 +251,7 @@
       "platformName": "Game & Watch",
       "platformShortname": "gw",
       "platformUniqueId": "gw",
-      "revisionNumber": 7
+      "revisionNumber": 8
     },
     {
       "filename": "GameBoy.json",
